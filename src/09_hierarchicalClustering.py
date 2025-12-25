@@ -34,4 +34,9 @@ plt.title("Hierarchical Clustering Dendrogram")
 plt.xlabel("Individuals")
 plt.ylabel("Distance")
 plt.tight_layout()
+
+# save dendrogram figure
+plt.savefig("outputs/figures/hierarchical_dendrogram.png")
+
 plt.show()
+
