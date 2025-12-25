@@ -87,12 +87,32 @@ All figures are saved in `outputs/figures/`, including:
 ## Project Structure
 
 body-image-ml/
-├── data/ # Raw dataset
-├── src/ # Analysis scripts
-├── outputs/ # Processed data and figures
-│ ├── figures/
-│ └── tables/
+├── data/
+│   └── body_image_gym_survey.csv
+├── src/
+│   ├── 01_explore.py
+│   ├── 02_cleanColumns.py
+│   ├── 03_selectFeatures.py
+│   ├── 04_createLabels.py
+│   ├── 05_encodeAndSplit.py
+│   ├── 06_logisticRegression.py
+│   ├── 07_treeModels.py
+│   ├── 08_kMeansClustering.py
+│   ├── 09_hierarchicalClustering.py
+│   └── 10_interpretResults.py
+├── outputs/
+│   ├── cleanData.csv
+│   ├── modelData.csv
+│   ├── labeledData.csv
+│   ├── clusteredData.csv
+│   ├── figures/
+│   │   ├── roc_auc_comparison.png
+│   │   ├── recall_comparison.png
+│   │   ├── cluster_risk_rates.png
+│   │   └── hierarchical_dendrogram.png
+│   └── tables/
 ├── requirements.txt
+├── .gitignore
 └── README.md
 
 
