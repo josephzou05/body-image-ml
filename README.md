@@ -86,6 +86,7 @@ All figures are saved in `outputs/figures/`, including:
 
 ## Project Structure
 
+```
 body-image-ml/
 ├── data/
 │   └── body_image_gym_survey.csv
@@ -114,7 +115,7 @@ body-image-ml/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 
 ---
 
