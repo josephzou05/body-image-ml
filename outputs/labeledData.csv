@@ -1,0 +1,93 @@
+age,gender,gymFrequency,fitnessGoals,trackProgress,followInfluencers,comparePhysique,needMoreMuscle,feelTooSmall,gymPressure,bodyChecking,avoidPostingPics,bodySatisfactionScore,atRisk
+28,Male,3-5 times per week,Build muscle;Lose fat,Yes,Sometimes,Often,5 - Strongly Agree,4 - Often,5 - Strongly Agree,5 - 9 times/day,5 - Strongly Agree,6.0,0
+25,Male,3-5 times per week,Build muscle,Yes,"Yes, regularly",Often,4 - Agree,4 - Often,3 - Neutral,5 - 9 times/day,5 - Strongly Agree,3.0,1
+18,Male,3-5 times per week,Build muscle;Improve athletic performance;Improve mental health;Social reasons,Yes,Sometimes,Sometimes,4 - Agree,3 - Sometimes,4 - Agree,2 - 4 times/day,3 - Neutral,5.0,0
+36,Male,3-5 times per week,Build muscle,Yes,"Yes, regularly",Constantly,5 - Strongly Agree,5 - Always,4 - Agree,2 - 4 times/day,3 - Neutral,6.0,0
+28,Male,6+ times per week,Build muscle;Lose fat;Improve mental health;Social reasons,Yes,"Yes, regularly",Constantly,5 - Strongly Agree,5 - Always,3 - Neutral,10+ times/day,4 - Agree,7.0,0
+33,Male,3-5 times per week,Build muscle;Improve athletic performance,No,No,Constantly,4 - Agree,5 - Always,2 - Disagree,2 - 4 times/day,3 - Neutral,4.0,0
+35,Male,6+ times per week,Build muscle;Lose fat;Improve athletic performance;Improve mental health;Social reasons,Yes,Sometimes,Sometimes,5 - Strongly Agree,5 - Always,4 - Agree,2 - 4 times/day,5 - Strongly Agree,2.0,1
+23,Female,3-5 times per week,Lose fat;Improve mental health,No,Sometimes,Often,3 - Neutral,2 - Rarely,4 - Agree,2 - 4 times/day,4 - Agree,1.0,1
+20,Male,3-5 times per week,Build muscle;Lose fat;Improve athletic performance,Yes,Sometimes,Sometimes,3 - Neutral,3 - Sometimes,2 - Disagree,0 - 1 times/day,2 - Disagree,6.0,0
+42,Male,3-5 times per week,Build muscle;Improve athletic performance;Improve mental health,No,No,Sometimes,2 - Disagree,3 - Sometimes,3 - Neutral,0 - 1 times/day,1 - Strongly Disagree,5.0,0
+20,Male,6+ times per week,Build muscle;Lose fat;Social reasons,Yes,"Yes, regularly",Constantly,3 - Neutral,3 - Sometimes,5 - Strongly Agree,10+ times/day,4 - Agree,8.0,0
+24,Male,Never,Build muscle;Lose fat;Improve mental health,Yes,No,Rarely,2 - Disagree,1 - Never,1 - Strongly Disagree,0 - 1 times/day,1 - Strongly Disagree,4.0,0
+25,Female,3-5 times per week,Build muscle;Lose fat;Improve athletic performance;Improve mental health,Yes,Sometimes,Constantly,2 - Disagree,4 - Often,4 - Agree,5 - 9 times/day,2 - Disagree,7.0,0
+31,Male,6+ times per week,Build muscle;Lose fat;Improve athletic performance;Improve mental health,Yes,Sometimes,Sometimes,5 - Strongly Agree,4 - Often,2 - Disagree,2 - 4 times/day,3 - Neutral,2.0,1
+45,Male,3-5 times per week,Build muscle;Improve athletic performance;Improve mental health,Yes,Sometimes,Sometimes,4 - Agree,3 - Sometimes,2 - Disagree,2 - 4 times/day,4 - Agree,7.0,0
+38,Male,6+ times per week,Build muscle;Lose fat;Improve athletic performance;Improve mental health,Yes,"Yes, regularly",Constantly,5 - Strongly Agree,4 - Often,4 - Agree,5 - 9 times/day,5 - Strongly Agree,8.0,0
+25,Male,3-5 times per week,Build muscle,Yes,"Yes, regularly",Often,4 - Agree,4 - Often,3 - Neutral,5 - 9 times/day,5 - Strongly Agree,3.0,1
+34,Male,3-5 times per week,Build muscle;Lose fat;Improve mental health,Yes,Sometimes,Often,5 - Strongly Agree,5 - Always,5 - Strongly Agree,0 - 1 times/day,4 - Agree,2.0,1
+41,Male,3-5 times per week,Build muscle,No,No,Sometimes,3 - Neutral,1 - Never,3 - Neutral,0 - 1 times/day,3 - Neutral,8.0,0
+37,Male,3-5 times per week,Build muscle;Improve mental health,Yes,Sometimes,Sometimes,3 - Neutral,3 - Sometimes,2 - Disagree,0 - 1 times/day,1 - Strongly Disagree,8.0,0
+31,Male,3-5 times per week,Build muscle;Improve athletic performance,Yes,No,Constantly,4 - Agree,3 - Sometimes,4 - Agree,5 - 9 times/day,4 - Agree,6.0,0
+17,Female,3-5 times per week,Lose fat;Improve athletic performance,Yes,No,Constantly,3 - Neutral,1 - Never,5 - Strongly Agree,10+ times/day,3 - Neutral,0.0,1
+35,Male,3-5 times per week,Build muscle;Social reasons,Yes,No,Sometimes,1 - Strongly Disagree,1 - Never,1 - Strongly Disagree,0 - 1 times/day,2 - Disagree,9.0,0
+20,Male,3-5 times per week,Build muscle;Improve athletic performance;Improve mental health,Yes,"Yes, regularly",Often,4 - Agree,5 - Always,5 - Strongly Agree,5 - 9 times/day,4 - Agree,2.0,1
+24,Female,3-5 times per week,Build muscle,Yes,"Yes, regularly",Often,3 - Neutral,3 - Sometimes,2 - Disagree,0 - 1 times/day,2 - Disagree,7.0,0
+38,Male,Never,Lose fat,No,No,Never,3 - Neutral,1 - Never,1 - Strongly Disagree,0 - 1 times/day,5 - Strongly Agree,4.0,0
+37,Male,Never,Lose fat;Other,No,No,Constantly,1 - Strongly Disagree,1 - Never,5 - Strongly Agree,10+ times/day,5 - Strongly Agree,0.0,1
+19,Male,6+ times per week,Build muscle,Yes,Sometimes,Sometimes,4 - Agree,4 - Often,2 - Disagree,0 - 1 times/day,2 - Disagree,6.0,0
+33,Male,3-5 times per week,Build muscle;Lose fat;Improve mental health,Yes,"Yes, regularly",Often,2 - Disagree,2 - Rarely,2 - Disagree,2 - 4 times/day,2 - Disagree,7.0,0
+22,Female,Never,Build muscle;Improve athletic performance,No,No,Rarely,2 - Disagree,1 - Never,1 - Strongly Disagree,0 - 1 times/day,1 - Strongly Disagree,9.0,0
+26,Female,Never,Other,No,No,Never,1 - Strongly Disagree,1 - Never,1 - Strongly Disagree,0 - 1 times/day,1 - Strongly Disagree,,0
+19,Female,1-2 times per week,Build muscle;Lose fat;Improve mental health,Yes,Sometimes,Sometimes,3 - Neutral,4 - Often,4 - Agree,2 - 4 times/day,1 - Strongly Disagree,7.0,0
+19,Male,1-2 times per week,Build muscle;Improve athletic performance;Improve mental health,Yes,Sometimes,Rarely,4 - Agree,4 - Often,1 - Strongly Disagree,0 - 1 times/day,1 - Strongly Disagree,8.0,0
+22,Male,3-5 times per week,Build muscle;Lose fat;Improve mental health,Yes,"Yes, regularly",Often,3 - Neutral,3 - Sometimes,4 - Agree,2 - 4 times/day,2 - Disagree,7.0,0
+18,Male,3-5 times per week,Build muscle;Lose fat;Improve athletic performance;Improve mental health,No,Sometimes,Rarely,3 - Neutral,2 - Rarely,2 - Disagree,0 - 1 times/day,3 - Neutral,8.0,0
+19,Male,3-5 times per week,Build muscle;Lose fat;Improve athletic performance;Improve mental health;Social reasons,No,"Yes, regularly",Often,4 - Agree,4 - Often,4 - Agree,0 - 1 times/day,4 - Agree,6.0,0
+18,Male,3-5 times per week,Build muscle;Improve athletic performance;Improve mental health,Yes,"Yes, regularly",Sometimes,5 - Strongly Agree,5 - Always,3 - Neutral,10+ times/day,3 - Neutral,3.0,1
+20,Male,3-5 times per week,Build muscle;Lose fat;Improve athletic performance;Improve mental health,Yes,Sometimes,Sometimes,4 - Agree,3 - Sometimes,2 - Disagree,0 - 1 times/day,4 - Agree,5.0,0
+29,Male,3-5 times per week,Build muscle,Yes,Sometimes,Sometimes,4 - Agree,3 - Sometimes,1 - Strongly Disagree,2 - 4 times/day,3 - Neutral,6.0,0
+20,Male,3-5 times per week,Build muscle;Lose fat,No,No,Often,4 - Agree,5 - Always,4 - Agree,2 - 4 times/day,5 - Strongly Agree,4.0,0
+19,Male,3-5 times per week,Build muscle;Improve athletic performance;Improve mental health;Social reasons,No,Sometimes,Sometimes,4 - Agree,3 - Sometimes,2 - Disagree,0 - 1 times/day,4 - Agree,4.0,0
+22,Male,3-5 times per week,Build muscle;Improve mental health;Social reasons,Yes,"Yes, regularly",Often,1 - Strongly Disagree,3 - Sometimes,2 - Disagree,5 - 9 times/day,1 - Strongly Disagree,8.0,0
+20,Male,3-5 times per week,Improve athletic performance,Yes,"Yes, regularly",Constantly,5 - Strongly Agree,5 - Always,1 - Strongly Disagree,0 - 1 times/day,1 - Strongly Disagree,2.0,1
+19,Male,6+ times per week,Build muscle;Lose fat;Improve athletic performance;Improve mental health,No,Sometimes,Sometimes,5 - Strongly Agree,4 - Often,3 - Neutral,0 - 1 times/day,4 - Agree,5.0,0
+19,Male,3-5 times per week,Build muscle,Yes,No,Rarely,3 - Neutral,3 - Sometimes,2 - Disagree,0 - 1 times/day,2 - Disagree,7.0,0
+23,Male,3-5 times per week,Build muscle;Lose fat;Social reasons,No,Sometimes,Rarely,3 - Neutral,4 - Often,4 - Agree,0 - 1 times/day,5 - Strongly Agree,7.0,0
+19,Male,6+ times per week,Build muscle;Lose fat;Improve athletic performance;Improve mental health;Social reasons,Yes,"Yes, regularly",Constantly,5 - Strongly Agree,5 - Always,5 - Strongly Agree,10+ times/day,2 - Disagree,4.0,0
+20,Male,6+ times per week,Build muscle,Yes,"Yes, regularly",Constantly,5 - Strongly Agree,5 - Always,5 - Strongly Agree,10+ times/day,5 - Strongly Agree,3.0,1
+35,Male,Never,Build muscle;Lose fat,No,No,Never,4 - Agree,1 - Never,1 - Strongly Disagree,0 - 1 times/day,1 - Strongly Disagree,7.0,0
+22,Male,3-5 times per week,Build muscle,No,Sometimes,Rarely,2 - Disagree,2 - Rarely,2 - Disagree,0 - 1 times/day,2 - Disagree,6.0,0
+23,Male,1-2 times per week,Lose fat,No,No,Rarely,4 - Agree,3 - Sometimes,4 - Agree,2 - 4 times/day,2 - Disagree,7.0,0
+20,Male,3-5 times per week,Build muscle;Lose fat;Social reasons,Yes,"Yes, regularly",Sometimes,5 - Strongly Agree,4 - Often,4 - Agree,2 - 4 times/day,4 - Agree,4.0,0
+22,Male,3-5 times per week,Build muscle;Improve athletic performance;Improve mental health,No,Sometimes,Rarely,4 - Agree,2 - Rarely,2 - Disagree,0 - 1 times/day,1 - Strongly Disagree,7.0,0
+20,Male,3-5 times per week,Build muscle;Lose fat;Improve athletic performance;Improve mental health,Yes,Sometimes,Sometimes,4 - Agree,2 - Rarely,2 - Disagree,2 - 4 times/day,3 - Neutral,5.0,0
+19,Male,3-5 times per week,Build muscle;Lose fat;Improve athletic performance;Improve mental health;Social reasons,No,No,Sometimes,4 - Agree,3 - Sometimes,4 - Agree,0 - 1 times/day,3 - Neutral,5.0,0
+63,Male,3-5 times per week,Build muscle;Lose fat;Improve athletic performance,No,No,Rarely,4 - Agree,3 - Sometimes,1 - Strongly Disagree,0 - 1 times/day,3 - Neutral,4.0,0
+44,Male,Never,Build muscle;Lose fat;Improve athletic performance;Improve mental health;Social reasons;Other,No,Sometimes,Rarely,3 - Neutral,1 - Never,1 - Strongly Disagree,0 - 1 times/day,2 - Disagree,7.0,0
+27,Male,1-2 times per week,Build muscle;Lose fat,Yes,No,Never,4 - Agree,4 - Often,4 - Agree,0 - 1 times/day,1 - Strongly Disagree,4.0,0
+19,Male,3-5 times per week,Build muscle;Improve athletic performance;Improve mental health,Yes,No,Rarely,2 - Disagree,2 - Rarely,4 - Agree,0 - 1 times/day,1 - Strongly Disagree,8.0,0
+20,Male,3-5 times per week,Build muscle;Lose fat;Improve athletic performance,No,Sometimes,Often,4 - Agree,4 - Often,3 - Neutral,0 - 1 times/day,2 - Disagree,7.0,0
+17,Male,Never,Build muscle;Lose fat;Social reasons,No,No,Never,3 - Neutral,1 - Never,4 - Agree,0 - 1 times/day,3 - Neutral,4.0,0
+56,Male,3-5 times per week,Other,No,No,Sometimes,4 - Agree,4 - Often,2 - Disagree,2 - 4 times/day,4 - Agree,0.0,1
+60,Male,1-2 times per week,Build muscle;Improve mental health,No,No,Sometimes,4 - Agree,4 - Often,2 - Disagree,0 - 1 times/day,2 - Disagree,7.0,0
+16,Female,3-5 times per week,Build muscle;Improve athletic performance,Yes,No,Often,4 - Agree,4 - Often,4 - Agree,2 - 4 times/day,3 - Neutral,6.0,0
+28,Female,3-5 times per week,Build muscle;Lose fat;Improve mental health,No,No,Sometimes,4 - Agree,4 - Often,4 - Agree,5 - 9 times/day,5 - Strongly Agree,3.0,1
+22,Male,3-5 times per week,Improve athletic performance;Improve mental health,Yes,"Yes, regularly",Sometimes,4 - Agree,3 - Sometimes,2 - Disagree,0 - 1 times/day,4 - Agree,4.0,0
+50,Male,6+ times per week,Lose fat,No,No,Never,1 - Strongly Disagree,1 - Never,1 - Strongly Disagree,0 - 1 times/day,1 - Strongly Disagree,8.0,0
+49,Female,3-5 times per week,Lose fat,No,No,Never,1 - Strongly Disagree,1 - Never,1 - Strongly Disagree,2 - 4 times/day,1 - Strongly Disagree,9.0,0
+23,Male,6+ times per week,Build muscle;Lose fat;Improve athletic performance;Improve mental health;Social reasons,Yes,"Yes, regularly",Constantly,5 - Strongly Agree,5 - Always,5 - Strongly Agree,10+ times/day,5 - Strongly Agree,3.0,1
+25,Male,6+ times per week,Build muscle;Improve athletic performance;Improve mental health,Yes,"Yes, regularly",Constantly,5 - Strongly Agree,5 - Always,5 - Strongly Agree,5 - 9 times/day,5 - Strongly Agree,4.0,0
+19,Male,6+ times per week,Build muscle,Yes,"Yes, regularly",Constantly,5 - Strongly Agree,5 - Always,5 - Strongly Agree,5 - 9 times/day,5 - Strongly Agree,2.0,1
+29,Male,6+ times per week,Build muscle;Lose fat;Improve athletic performance,Yes,"Yes, regularly",Often,5 - Strongly Agree,5 - Always,5 - Strongly Agree,5 - 9 times/day,5 - Strongly Agree,4.0,0
+21,Female,1-2 times per week,Lose fat;Improve athletic performance;Improve mental health,No,No,Often,2 - Disagree,2 - Rarely,4 - Agree,5 - 9 times/day,4 - Agree,4.0,0
+19,Female,3-5 times per week,Lose fat;Improve athletic performance;Improve mental health,No,Sometimes,Constantly,4 - Agree,2 - Rarely,4 - Agree,5 - 9 times/day,4 - Agree,5.0,0
+20,Male,3-5 times per week,Build muscle;Improve athletic performance,No,Sometimes,Sometimes,4 - Agree,3 - Sometimes,1 - Strongly Disagree,0 - 1 times/day,2 - Disagree,9.0,0
+21,Female,3-5 times per week,Build muscle;Lose fat;Improve athletic performance,No,Sometimes,Sometimes,4 - Agree,3 - Sometimes,4 - Agree,0 - 1 times/day,1 - Strongly Disagree,5.0,0
+20,Female,3-5 times per week,Build muscle;Improve mental health,Yes,Sometimes,Often,4 - Agree,4 - Often,2 - Disagree,0 - 1 times/day,4 - Agree,6.0,0
+19,Male,6+ times per week,Build muscle;Improve athletic performance,Yes,Sometimes,Often,4 - Agree,4 - Often,2 - Disagree,2 - 4 times/day,2 - Disagree,7.0,0
+20,Male,3-5 times per week,Build muscle;Lose fat;Improve athletic performance;Improve mental health;Social reasons,Yes,Sometimes,Often,4 - Agree,4 - Often,4 - Agree,2 - 4 times/day,5 - Strongly Agree,2.0,1
+23,Male,6+ times per week,Build muscle;Lose fat;Improve athletic performance;Improve mental health;Social reasons,No,Sometimes,Sometimes,4 - Agree,1 - Never,3 - Neutral,0 - 1 times/day,4 - Agree,6.0,0
+21,Male,6+ times per week,Build muscle,Yes,"Yes, regularly",Constantly,5 - Strongly Agree,5 - Always,5 - Strongly Agree,10+ times/day,5 - Strongly Agree,2.0,1
+25,Male,6+ times per week,Build muscle;Lose fat;Improve mental health,Yes,"Yes, regularly",Constantly,5 - Strongly Agree,4 - Often,5 - Strongly Agree,10+ times/day,5 - Strongly Agree,3.0,1
+17,Male,3-5 times per week,Build muscle;Improve athletic performance;Improve mental health,Yes,"Yes, regularly",Often,5 - Strongly Agree,5 - Always,5 - Strongly Agree,5 - 9 times/day,4 - Agree,2.0,1
+32,Male,1-2 times per week,Build muscle;Lose fat,No,No,Never,2 - Disagree,1 - Never,1 - Strongly Disagree,0 - 1 times/day,3 - Neutral,7.0,0
+40,Male,3-5 times per week,Build muscle;Lose fat;Improve athletic performance,Yes,No,Never,2 - Disagree,3 - Sometimes,1 - Strongly Disagree,2 - 4 times/day,1 - Strongly Disagree,8.0,0
+22,Male,6+ times per week,Build muscle;Lose fat,Yes,"Yes, regularly",Constantly,5 - Strongly Agree,5 - Always,4 - Agree,5 - 9 times/day,5 - Strongly Agree,2.0,1
+24,Male,3-5 times per week,Build muscle;Lose fat;Improve athletic performance,Yes,"Yes, regularly",Often,4 - Agree,5 - Always,4 - Agree,2 - 4 times/day,4 - Agree,2.0,1
+19,Male,3-5 times per week,Build muscle;Lose fat;Improve athletic performance;Improve mental health,Yes,No,Rarely,2 - Disagree,2 - Rarely,2 - Disagree,2 - 4 times/day,2 - Disagree,9.0,0
+26,Male,6+ times per week,Build muscle;Lose fat,Yes,"Yes, regularly",Constantly,5 - Strongly Agree,5 - Always,5 - Strongly Agree,10+ times/day,4 - Agree,3.0,1
+50,Male,6+ times per week,Lose fat,No,No,Rarely,3 - Neutral,1 - Never,1 - Strongly Disagree,2 - 4 times/day,1 - Strongly Disagree,8.0,0
+18,Male,3-5 times per week,Build muscle;Lose fat;Improve athletic performance;Improve mental health,No,Sometimes,Often,5 - Strongly Agree,5 - Always,3 - Neutral,5 - 9 times/day,5 - Strongly Agree,4.0,0
+21,Male,3-5 times per week,Build muscle;Lose fat;Improve athletic performance;Improve mental health,Yes,Sometimes,Sometimes,4 - Agree,3 - Sometimes,3 - Neutral,0 - 1 times/day,2 - Disagree,,0
